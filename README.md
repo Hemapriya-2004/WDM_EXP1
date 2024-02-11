@@ -53,7 +53,11 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+Training Data Set -> Employee Table
+![image](https://github.com/Hemapriya-2004/WDM_EXP1/assets/94184828/ca1ee8b0-5d0a-4644-983f-13e789d32e92)
 
+Training Data Set-> Weather Table
+![image](https://github.com/Hemapriya-2004/WDM_EXP1/assets/94184828/2f3a35f4-d340-466e-b539-36d2b91fd02c)
 
 
 ### PREPROCESSING
@@ -75,6 +79,11 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+Employee Table after adding new attribute ADDRESS:
+![image](https://github.com/Hemapriya-2004/WDM_EXP1/assets/94184828/638c2e70-54b3-425c-b06b-ac2a90834c8f)
+
+Weather Table after adding new attribute CLIMATE:
+![image](https://github.com/Hemapriya-2004/WDM_EXP1/assets/94184828/8fa94d04-95a4-4758-aa1b-1d6dec77e3e4)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +100,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+Employee Table after removing attributes SALARY, GENDER:
+![image](https://github.com/Hemapriya-2004/WDM_EXP1/assets/94184828/36254006-23d2-43d8-8a43-e1653d2ae5f2)
+
+Weather Table after removing attributes WINDY, PLAY:
+![image](https://github.com/Hemapriya-2004/WDM_EXP1/assets/94184828/cc18daf4-343a-4610-8cb3-5840b7584dfc)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +121,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+Employee Table after Normalizing ID, EXP, PHONE:
+![image](https://github.com/Hemapriya-2004/WDM_EXP1/assets/94184828/e99cfe3b-365f-44f3-9e6e-59ee49034a26)
+
+Weather Table after Normalizing TEMPARATURE, HUMIDITY:
+![image](https://github.com/Hemapriya-2004/WDM_EXP1/assets/94184828/8d2ed103-003c-4265-981a-2b825d9d53ff)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
